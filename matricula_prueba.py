@@ -62,9 +62,9 @@ class MatriculaBeca(ModificadorMatricula):
         return monto_acumulado / 2.0
 
 
-# ==========================================
+
 # 5. PRUEBA DEL SISTEMA Y SOLUCIÓN DEL CASO
-# ==========================================
+
 if __name__ == "__main__":
     
     # --- CASO 1: LUIS HUAMANÍ CÁRDENAS ---
